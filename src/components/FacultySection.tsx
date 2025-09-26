@@ -7,7 +7,7 @@ import rashmiVyasImage from "@/assets/rashmi-vyas.png";
 const faculty = [
   {
     id: 1,
-    name: "Rashmi Vyas",
+    name: "Rashmi Harsh",
     experience: "15+ Years in Web Development",
     expertise: ["React", "Node.js", "TypeScript", "AWS"],
     bio: "Senior Full Stack Developer with extensive experience in modern web technologies. Has worked with Fortune 500 companies and led multiple development teams.",
