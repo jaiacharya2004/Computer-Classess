@@ -132,6 +132,9 @@ export const BookingSection = () => {
                       <SelectItem value="Full Stack Web Development">Full Stack Web Development</SelectItem>
                       <SelectItem value="App Development (Kotlin + Flutter)">App Development (Kotlin + Flutter)</SelectItem>
                       <SelectItem value="WordPress Website Development">WordPress Website Development</SelectItem>
+                      <SelectItem value="BCA / MCA">BCA / MCA</SelectItem>
+                      <SelectItem value="MSc CS / PGDCA">MSc CS / PGDCA</SelectItem>
+                      <SelectItem value="BTech / MTech">BTech / MTech</SelectItem>
                     </SelectContent>
                   </Select>
                 </div>
