@@ -44,7 +44,48 @@ const courses = [
     students: "2,100+",
     rating: 4.9
     
+  },
+
+  {
+    id: 4,
+    title: "BCA / MCA",
+    subtitle: "Professional Degree Program",
+    description: "Get industry-ready with a full curriculum covering computer fundamentals, programming, and software engineering.",
+    price: "₹5000 / Semester",
+    originalPrice: "₹15000",
+    icon: Users, // Reusing an icon (can change if you want)
+    features: ["C, C++, Java, Python", "Data Structures", "DBMS & Networking", "Final Year Project"],
+    duration: "3 Years (BCA) / 2 Years (MCA)",
+    students: "3,000+",
+    rating: 4.8
+  },
+  {
+    id: 5,
+    title: "MSc CS / PGDCA",
+    subtitle: "Advanced Computer Science",
+    description: "Perfect for graduates who want to specialize in computer science concepts, AI, and research-oriented development.",
+    price: "₹5000 / Semester",
+    originalPrice: "₹15000",
+    icon: Code,
+    features: ["Advanced Programming", "Machine Learning Basics", "Research Projects", "System Analysis"],
+    duration: "2 Years",
+    students: "1,200+",
+    rating: 4.8
+  },
+  {
+    id: 6,
+    title: "BTech / MTech",
+    subtitle: "Engineering Track",
+    description: "Pursue technical excellence with a curriculum that blends theory and hands-on engineering experience.",
+    price: "₹5000 / Semester",
+    originalPrice: "₹15000",
+    icon: Star,
+    features: ["Engineering Mathematics", "OS & Networking", "Capstone Project", "Industry Internship"],
+    duration: "4 Years (BTech) / 2 Years (MTech)",
+    students: "2,800+",
+    rating: 4.9
   }
+  
 ];
 
 export const CoursesSection = () => {

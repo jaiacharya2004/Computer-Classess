@@ -21,14 +21,14 @@ const faculty = [
   {
     id: 2,
     name: "Jai Acharya",
-    experience: "Expert in App Development",
-    expertise: ["Kotlin", "Flutter", "Firebase", "Play Store"],
-    bio: "Mobile development specialist with Kotlin Jetpack Compose + KMP & CMP. Developing School Management Apps & Client Projects.",
+    experience: "Expert in App Development + Full Stack ",
+    expertise: ["Kotlin", "Flutter", "Firebase", "Play Store, WordPress"],
+    bio: "Mobile development specialist with Kotlin Jetpack Compose + KMP & CMP. Developing School Management Apps & Web Portals.",
     image: jaiAcharyaImage,
     projects: [
       { title: "School Management App", tech: "Kotlin + KMP, Firebase", image: "/api/placeholder/300/200" },
-      { title: "Health Tracker", tech: "Flutter, Room DB", image: "/api/placeholder/300/200" },
-      { title: "To-Do Pomodoro", tech: "Kotlin, Firbase", image: "/api/placeholder/300/200" }
+      { title: "Uday Bhaskar ", tech: "WordPress, Php", image: "/api/placeholder/300/200" },
+      { title: "Health Tracker", tech: "Flutter, Room DB", image: "/api/placeholder/300/200" }
     ]
   }
 ];
